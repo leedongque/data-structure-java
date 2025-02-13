@@ -12,5 +12,6 @@ public class Node <E>{
 		this.next = next;
 		this.prev = prev;
 		this.number = number;
+		//ronaldon
 	}
 }
